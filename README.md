@@ -66,16 +66,22 @@ I'm passionate about building working prototypes 🛠️ and currently specializ
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V-Silpin&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=V-Silpin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V-Silpin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-## 📫 Contact
+## 📫 Contacts
 
-- [LinkedIn](https://www.linkedin.com/in/varun-mohanta-620764282/)
-- [X (Twitter)](https://x.com/Master_MalloC)
+<div align="left">
+  <a href="https://x.com/Master_MalloC" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
+    &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varun-mohanta-620764282/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=Linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
+</div>
 
 <!--
 **V-Silpin/V-Silpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
