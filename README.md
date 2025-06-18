@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/V-Silpin/V-Silpin?style=for-the-badge" alt="Top Language"/>
-  <img src="https://img.shields.io/github/languages/count/V-Silpin/V-Silpin?style=for-the-badge" alt="Language Count"/>
-</p>
-
 ---
 
 ## 🚀 About Me
