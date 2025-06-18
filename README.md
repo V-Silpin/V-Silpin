@@ -77,6 +77,11 @@ I'm passionate about building working prototypes 🛠️ and currently specializ
 
 ---
 
+## Other Achievements
+
+- Finalist in Smart India Hackathon
+- Participated in Offline Tredence AI Hackathon in Bengaluru
+
 ## 📫 Contacts
 
 <div align="left">
